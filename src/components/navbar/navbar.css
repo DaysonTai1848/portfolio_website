@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    padding: 5px 10px;
+    margin-bottom: 2rem;
+}
+
+.home-button {
+    color: white;
+}
+

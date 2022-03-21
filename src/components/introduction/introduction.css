@@ -1,0 +1,24 @@
+.introduction {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    padding: 25px;
+}
+
+.intro__welcome {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.intro__description {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.intro__fancy-button {
+    padding: 5px 20px;
+    border-radius: 11px;
+    border: 0;
+    color: aliceblue;
+    background: linear-gradient(to right,#ba13c0, #0815a5);
+}

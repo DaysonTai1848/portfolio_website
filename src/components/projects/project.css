@@ -1,0 +1,26 @@
+.project {
+    
+}
+
+.project__title {
+    color: white;
+}
+
+.project__items {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    max-height: 15rem;
+    max-width: 10rem;
+    border-radius: 10px;
+}
+
+.card__img {
+    width: 80%;
+}
+
+p {
+    color: white;
+}
